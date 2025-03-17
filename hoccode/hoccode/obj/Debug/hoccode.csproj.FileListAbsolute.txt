@@ -1,0 +1,7 @@
+D:\Homework\hoccode\hoccode\bin\Debug\hoccode.exe.config
+D:\Homework\hoccode\hoccode\bin\Debug\hoccode.exe
+D:\Homework\hoccode\hoccode\bin\Debug\hoccode.pdb
+D:\Homework\hoccode\hoccode\obj\Debug\hoccode.csproj.AssemblyReference.cache
+D:\Homework\hoccode\hoccode\obj\Debug\hoccode.csproj.CoreCompileInputs.cache
+D:\Homework\hoccode\hoccode\obj\Debug\hoccode.exe
+D:\Homework\hoccode\hoccode\obj\Debug\hoccode.pdb

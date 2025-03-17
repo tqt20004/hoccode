@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Homework\\hoccode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B35A553-4E72-45DF-B75B-0CA220746941}|hoccode\\hoccode.csproj|d:\\homework\\hoccode\\hoccode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B35A553-4E72-45DF-B75B-0CA220746941}|hoccode\\hoccode.csproj|solutionrelative:hoccode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Homework\\hoccode\\hoccode\\Program.cs",
+              "RelativeDocumentMoniker": "hoccode\\Program.cs",
+              "ToolTip": "D:\\Homework\\hoccode\\hoccode\\Program.cs",
+              "RelativeToolTip": "hoccode\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:26:34.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
